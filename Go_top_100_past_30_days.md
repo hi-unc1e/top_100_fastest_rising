@@ -1,103 +1,103 @@
 | Stars | Name | Desc | Created | 
 | ----- | ------- | ------------- | ------------- |
-| 2080 | [pgrok](https://github.com/pgrok/pgrok) | Poor man's ngrok - a multi-tenant HTTP reverse tunnel solution through SSH remote port forwarding | 2023-03-08 12:43:55 +0000 UTC |
-| 371 | [openai-go](https://github.com/rakyll/openai-go) | Go client libraries for OpenAI | 2023-02-24 22:07:28 +0000 UTC |
-| 322 | [onelist](https://github.com/msterzhang/onelist) | 一个类似emby的专注于刮削alist聚合网盘形成影视媒体库的程序。 | 2023-02-27 10:52:41 +0000 UTC |
-| 302 | [kubectl-ai](https://github.com/sozercan/kubectl-ai) | ✨ Kubectl plugin for OpenAI GPT | 2023-03-19 01:16:05 +0000 UTC |
-| 257 | [DRat](https://github.com/SpenserCai/DRat) | 去中心化远程控制工具（Decentralized Remote Administration Tool），通过ENS实现了配置文件分发的去中心化，通过Telegram实现了服务端的去中心化 | 2023-03-05 13:15:04 +0000 UTC |
-| 219 | [CodeGPT](https://github.com/appleboy/CodeGPT) | A CLI written in Go language that writes git commit messages for you using ChatGPT AI (gpt-4, gpt-3.5-turbo model) and automatically installs a git prepare-commit-msg hook. | 2023-03-04 13:49:29 +0000 UTC |
-| 213 | [ChatGPT-Proxy-V4](https://github.com/acheong08/ChatGPT-Proxy-V4) | Cloudflare Bypass for OpenAI based on `puid` | 2023-03-10 00:29:16 +0000 UTC |
-| 197 | [nordvpn-linux](https://github.com/NordSecurity/nordvpn-linux) | NordVPN Linux client | 2023-03-10 18:04:52 +0000 UTC |
-| 183 | [shad-go](https://github.com/slon/shad-go) | Golang programming course | 2023-03-08 08:47:33 +0000 UTC |
-| 177 | [gitgpt](https://github.com/Hesse/gitgpt) | A natural language command line git assistant  | 2023-02-26 04:57:05 +0000 UTC |
-| 163 | [digger](https://github.com/diggerhq/digger) | Run Terraform plan / apply in your CI | 2023-02-24 11:07:31 +0000 UTC |
-| 162 | [chatgpt](https://github.com/j178/chatgpt) | Cli for ChatGPT | 2023-03-02 10:44:18 +0000 UTC |
-| 148 | [chatgpt-telegram-bot](https://github.com/leafduo/chatgpt-telegram-bot) | Telegram bot for ChatGPT | 2023-03-04 09:34:57 +0000 UTC |
-| 138 | [chainloop](https://github.com/chainloop-dev/chainloop) | Chainloop is an open source software supply chain control plane, a single source of truth for artifacts plus a declarative attestation crafting process. | 2023-03-06 14:30:50 +0000 UTC |
-| 126 | [feastogether](https://github.com/zhong1016/feastogether) | 饗賓餐旅線上訂位 | 2023-03-13 14:14:13 +0000 UTC |
-| 125 | [i18n-cli](https://github.com/pandodao/i18n-cli) | A  CLI tool that utilizes the OpenAI API to translate JSON-based locale files | 2023-03-04 03:05:30 +0000 UTC |
-| 125 | [uncover-turbo](https://github.com/zt2/uncover-turbo) | 一个简单的测绘引擎巴别塔 | 2023-03-06 17:03:09 +0000 UTC |
-| 124 | [awsScrape](https://github.com/jhaddix/awsScrape) | A tool to scrape the AWS ranges looking for a keyword in SSL certificate data. | 2023-03-18 07:24:23 +0000 UTC |
-| 116 | [openai-proxy](https://github.com/geekr-dev/openai-proxy) | 基于 Go 实现的 OpenAI HTTP 代理（云函数、lambda 函数、自己部署均可） | 2023-03-06 09:09:19 +0000 UTC |
-| 111 | [popple](https://github.com/hoorayman/popple) | Popple is a distributed, highly available, general purpose key/value database. | 2023-02-24 00:31:51 +0000 UTC |
-| 110 | [gpt-go](https://github.com/hanyuancheung/gpt-go) | OpenAI ChatGPT/GPT-4/GPT-3 SDK Go Client to Interact with the GPT-4/GPT-3 APIs. | 2023-03-11 01:43:32 +0000 UTC |
-| 108 | [ChopChopGo](https://github.com/M00NLIG7/ChopChopGo) | Rapidly Search and Hunt through Linux Forensics Artifacts | 2023-03-02 18:31:18 +0000 UTC |
-| 93 | [spider](https://github.com/Yac87300/spider) | 自动化运维/数据采集/Api转发/活接口调用 | 2023-03-14 02:52:03 +0000 UTC |
-| 92 | [frontman](https://github.com/Frontman-Labs/frontman) | Frontman is an open-source API gateway written in Go that allows you to manage your microservices and expose them as a single API endpoint. It acts as a reverse proxy and handles requests from clients, routing them to the appropriate backend service. | 2023-02-25 16:50:16 +0000 UTC |
-| 91 | [GlangYsoserial.java](https://github.com/nu1r/GlangYsoserial.java) | 一个生成JAVA反序列化流的GO库 | 2023-03-11 06:47:56 +0000 UTC |
-| 85 | [selefra](https://github.com/selefra/selefra) | Selefra means "select * from infrastructure". It is an open-source policy-as-code software that provides analysis for multi-cloud and SaaS environments, including over 30 services such as AWS, GCP, Azure, Alibaba Cloud, Kubernetes, Github, Cloudflare, and Slack. | 2023-03-21 16:28:50 +0000 UTC |
-| 82 | [Argo](https://github.com/Ciyfly/Argo) | Argo is an automated general crawler for automatically obtaining website URLs . Argo 是一个自动化通用爬虫 用于自动化获取网站的URL 基于无头浏览器实现了静态和动态结合的方式来实现 | 2023-03-15 09:35:00 +0000 UTC |
-| 79 | [pgcacher](https://github.com/rfyiamcool/pgcacher) | 🔥 pgcacher is used to get page cache stats for files on Linux.  ( 分析 page cache 缓存了哪些文件，文件在 page cache 的缓存占比) | 2023-03-13 03:38:32 +0000 UTC |
-| 75 | [aoi](https://github.com/shellfly/aoi) | Ghost in the Shell powered by ChatGPT | 2023-03-17 12:04:57 +0000 UTC |
-| 70 | [amazon-s3-tar-tool](https://github.com/awslabs/amazon-s3-tar-tool) | A utility tool to create a tarball of existing objects in Amazon S3 | 2023-03-06 19:29:49 +0000 UTC |
-| 69 | [im-fun](https://github.com/zhixunjie/im-fun) |  | 2023-02-28 01:55:03 +0000 UTC |
-| 69 | [kopilot](https://github.com/knight42/kopilot) | Your AI Kubernetes Expert | 2023-03-19 15:37:16 +0000 UTC |
-| 67 | [document-ai](https://github.com/coderabbit214/document-ai) | go基于向量数据库与GPT3.5的通用本地知识库方案(A universal local knowledge base solution based on vector database and GPT3.5) | 2023-03-13 01:45:46 +0000 UTC |
-| 67 | [SpeechEnhancement](https://github.com/tech-podcasts/SpeechEnhancement) | 基于深度学习的语音增强工具(Speech Enhancement Tools Based on Deep Learning) | 2023-03-18 03:01:57 +0000 UTC |
-| 66 | [openai-on-wechat](https://github.com/riba2534/openai-on-wechat) | 🍺基于 Golang 实现的，OpenAI 微信聊天机器人 | 2023-03-12 05:22:04 +0000 UTC |
-| 64 | [ShareGPT](https://github.com/acheong08/ShareGPT) | To allow the sharing of API keys to create a free OpenAI API. | 2023-03-16 00:27:54 +0000 UTC |
-| 59 | [linux-command-gpt](https://github.com/asrul10/linux-command-gpt) | Get Linux commands in natural language with the power of ChatGPT. | 2023-03-11 13:20:39 +0000 UTC |
-| 58 | [actions-usage](https://github.com/self-actuated/actions-usage) | Find your total usage on GitHub Actions | 2023-02-27 11:26:54 +0000 UTC |
-| 58 | [tokenizer-go](https://github.com/pandodao/tokenizer-go) | A Go wrapper for GPT-3 token calculation. https://platform.openai.com/tokenizer | 2023-03-16 02:12:51 +0000 UTC |
-| 58 | [GolangCallbackLoader](https://github.com/nu1r/GolangCallbackLoader) | golang实现的回调函数加载器库 | 2023-03-14 03:55:27 +0000 UTC |
-| 54 | [queryxss](https://github.com/vitorfhc/queryxss) | Tool for testing reflections in the HTTP responses | 2023-03-10 01:34:09 +0000 UTC |
-| 53 | [openai](https://github.com/andrewstuart/openai) | A go client and cli for the openai APIs, focused on developer friendliness and convenience atop the basic building blocks for the OpenAI apis | 2023-03-02 05:30:09 +0000 UTC |
-| 52 | [intcomp](https://github.com/ronanh/intcomp) | Fast integer compression library | 2023-03-09 21:07:55 +0000 UTC |
-| 51 | [gossip-glomers](https://github.com/teivah/gossip-glomers) | My solutions to the Glomers Challenge: a series of distributed systems challenges. | 2023-02-25 09:52:52 +0000 UTC |
-| 49 | [openai-scf-goproxy](https://github.com/riba2534/openai-scf-goproxy) | Golang开发的腾讯云函数OpenAI反向代理 | 2023-03-08 13:25:06 +0000 UTC |
-| 48 | [hacks](https://github.com/vitorfhc/hacks) | Collection of scripts that I use while bug hunting | 2023-03-07 19:21:24 +0000 UTC |
-| 47 | [llama-cli](https://github.com/go-skynet/llama-cli) | :camel: self-hosted, Simple LLaMA/alpaca API & CLI written in go | 2023-03-18 22:58:02 +0000 UTC |
-| 46 | [NotionAI-go](https://github.com/jyz0309/NotionAI-go) | Unofficial NotionAI Go SDK | 2023-02-26 10:10:56 +0000 UTC |
-| 45 | [poe_unoffical_api](https://github.com/isxuelinme/poe_unoffical_api) | the POE of Quora golang implement | 2023-03-12 15:19:18 +0000 UTC |
-| 44 | [gpt-wework](https://github.com/razertory/gpt-wework) | 企业微信（客服）能力下的 ChatGPT 微信机器人 | 2023-02-28 07:16:19 +0000 UTC |
-| 43 | [gogpt](https://github.com/Nemoden/gogpt) | ChatGPT CLI | 2023-03-04 07:42:36 +0000 UTC |
-| 42 | [endext](https://github.com/SirBugs/endext) | EndExt is a .go tool for extracting all the possible endpoints from the JS files | 2023-03-13 23:03:23 +0000 UTC |
-| 41 | [wizard-tutorial](https://github.com/charmbracelet/wizard-tutorial) | A basic wizard made with Bubble Tea and Lip Gloss. Follow along with the tutorial video for this project: | 2023-03-03 01:03:47 +0000 UTC |
-| 40 | [keep-sorted](https://github.com/google/keep-sorted) | keep-sorted is a language-agnostic formatter that sorts lines between two markers in a larger file. | 2023-02-23 15:47:45 +0000 UTC |
-| 38 | [nxt_unit](https://github.com/bytedance/nxt_unit) | NxtUnit is an automatically unit test generation application for Go. | 2023-03-01 09:53:17 +0000 UTC |
-| 36 | [chatgpt-aws-proxy](https://github.com/nangcr/chatgpt-aws-proxy) | 本项目是一个 AWS Lambda 函数，用于将 HTTP 请求转发到 OpenAI 的 ChatGPT API。亦可部署到任意 VPS 上。 | 2023-03-05 16:14:59 +0000 UTC |
-| 36 | [crawlergo-plus](https://github.com/sairson/crawlergo-plus) | 爬虫的暴力美学，在projectdiscover和原版crawlergo的基础上修改而来，目前只提供了测试，还没有完全修改好 | 2023-03-18 01:42:18 +0000 UTC |
-| 34 | [frenzy](https://github.com/kellabyte/frenzy) | Postgres wire protocol aware mirroring proxy | 2023-03-21 03:05:25 +0000 UTC |
-| 33 | [pyxis](https://github.com/zan8in/pyxis) | pyxis can automatically identify http and https requests, and get response headers, status codes, response size, response time, tools for fingerprinting (favicon has, service, CMS, framework, etc.) | 2023-03-05 06:09:06 +0000 UTC |
-| 32 | [tg-dumb-bot](https://github.com/hackroid/tg-dumb-bot) |  | 2023-03-06 14:04:19 +0000 UTC |
-| 31 | [go-ssaviz](https://github.com/SilverRainZ/go-ssaviz) | Visualize Go SSA function using Graphviz | 2023-02-26 02:35:52 +0000 UTC |
-| 30 | [LazyDog](https://github.com/L10nK1n6/LazyDog) | LazyDog是一款通过网络空间测绘引擎读取资产并进行指纹识别的工具 | 2023-03-02 05:14:03 +0000 UTC |
-| 30 | [iterium](https://github.com/mowshon/iterium) | 🚀 Generic Channel-based Iterators for Golang | 2023-03-04 13:53:17 +0000 UTC |
-| 30 | [115push](https://github.com/user1121114685/115push) | 云传(115push)是一个将sha1导入到115网盘的工具，无需将文件下载到本地 | 2023-03-19 10:01:17 +0000 UTC |
-| 29 | [goblob](https://github.com/Macmod/goblob) | A fast enumeration tool for publicly exposed Azure Storage blobs. | 2023-03-13 13:25:02 +0000 UTC |
-| 29 | [gpt3-5-turbo-go](https://github.com/AlmazDelDiablo/gpt3-5-turbo-go) | Golang client for official API of ChatGPT (GPT-3.5-turbo) | 2023-03-01 19:09:24 +0000 UTC |
-| 29 | [bsky](https://github.com/mattn/bsky) | A cli application for bluesky social | 2023-03-05 16:04:55 +0000 UTC |
-| 29 | [ffufsee](https://github.com/fyoorer/ffufsee) | Ffuf output browser | 2023-02-24 20:18:54 +0000 UTC |
-| 28 | [llama-saas](https://github.com/avilum/llama-saas) | A client/server for LLaMA (Large Language Model Meta AI) that can run ANYWHERE. | 2023-03-19 13:48:35 +0000 UTC |
-| 27 | [betteralign](https://github.com/dkorunic/betteralign) | Make your Go programs use less memory (maybe) | 2023-03-15 22:54:16 +0000 UTC |
-| 26 | [sasqwatch](https://github.com/fabio42/sasqwatch) | A modern take on the classic watch command | 2023-03-06 15:42:58 +0000 UTC |
-| 26 | [watchtower](https://github.com/NCCloud/watchtower) | Effortlessly monitor your Kubernetes resource activity :rocket: | 2023-03-09 17:04:46 +0000 UTC |
-| 26 | [blue-archive-data-download](https://github.com/nijinekoyo/blue-archive-data-download) | BlueArchive游戏文件下载工具，支持筛选与多线程 | 2023-03-03 19:21:45 +0000 UTC |
-| 26 | [ecsnv](https://github.com/dineshgowda24/ecsnv) | A lightweight utility to dump AWS Fargate's ECS containers environment variables locally | 2023-02-26 13:13:28 +0000 UTC |
-| 25 | [backend-engineering-octernship](https://github.com/HousewareHQ/backend-engineering-octernship) |  | 2023-02-28 07:05:37 +0000 UTC |
-| 25 | [RealiTLScanner](https://github.com/XTLS/RealiTLScanner) | A TLS server scanner for Reality | 2023-03-06 02:29:08 +0000 UTC |
-| 25 | [mint](https://github.com/btvoidx/mint) | 🍃 Tiny event emitter built on generics | 2023-03-09 09:02:55 +0000 UTC |
-| 24 | [mysqldump](https://github.com/dengjiawen8955/mysqldump) | A zero-dependency, high-performance, concurrent mysqldump tool implemented in golang. golang 中实现的零依赖、高性能、并发 mysqldump 工具。 | 2023-03-17 08:34:41 +0000 UTC |
-| 24 | [v2box](https://github.com/SagerNet/v2box) | Migrate your v2ray configuration into sing-box | 2023-03-19 12:54:04 +0000 UTC |
-| 23 | [ViaGenshin](https://github.com/Jx2f/ViaGenshin) | Allows the connection of newer clients to older Genshin servers. | 2023-03-21 08:56:50 +0000 UTC |
-| 23 | [daedalus](https://github.com/smsunarto/daedalus) | Deadalus is a  modular toolkit for zkSNARKs development and deployment written in Go using Gnark. | 2023-02-25 20:26:01 +0000 UTC |
-| 23 | [cases](https://github.com/rossmacarthur/cases) | A case conversion library for Go with Unicode support | 2023-02-25 16:03:51 +0000 UTC |
-| 23 | [gointensivo2](https://github.com/devfullcycle/gointensivo2) |  | 2023-03-07 01:03:59 +0000 UTC |
-| 23 | [ParamAngler](https://github.com/spyx/ParamAngler) |  | 2023-02-25 20:59:24 +0000 UTC |
-| 22 | [heresy](https://github.com/miragespace/heresy) | Run JavaScript as http.Server middleware | 2023-03-06 09:41:45 +0000 UTC |
-| 22 | [enthistory](https://github.com/flume/enthistory) | History tables for ent | 2023-03-13 14:06:49 +0000 UTC |
-| 21 | [gptc](https://github.com/junyu-w/gptc) | Supercharge your CLI with the power of OpenAI's GPT model (and other models too!) | 2023-03-20 07:44:25 +0000 UTC |
-| 21 | [sniproxy](https://github.com/ameshkov/sniproxy) | SNI proxy with embedded DNS server that supports blocking and forwarding rules. | 2023-03-12 15:23:59 +0000 UTC |
-| 21 | [telegram-chatgpt-bot](https://github.com/iamwavecut/telegram-chatgpt-bot) | Simple Telegram bot integration to OpenAI ChatGPT API, written in Go | 2023-03-13 21:52:35 +0000 UTC |
-| 21 | [gat](https://github.com/koki-develop/gat) | cat alternative written in Go. | 2023-03-11 07:58:05 +0000 UTC |
-| 20 | [simple](https://github.com/codingo/simple) | A collection of one off hacks and simple scripts | 2023-03-08 03:05:25 +0000 UTC |
-| 20 | [tiktoken-go](https://github.com/pkoukk/tiktoken-go) | go version of tiktoken | 2023-03-08 10:31:35 +0000 UTC |
-| 20 | [ctf-portal](https://github.com/FADAMIS/ctf-portal) | Generally usable CTF portal originally made for HackDays | 2023-03-02 20:19:27 +0000 UTC |
-| 20 | [V2rayCollector](https://github.com/mrvcoder/V2rayCollector) | This project crawls v2ray configs from Telegram channels. | 2023-03-03 11:22:12 +0000 UTC |
-| 19 | [tftp-now](https://github.com/puhitaku/tftp-now) | Single-binary TFTP server and client that you can use right now. No package installation, no configuration, no frustration. | 2023-03-20 03:01:49 +0000 UTC |
-| 19 | [unitauto-go](https://github.com/TommyLemon/unitauto-go) | ☀️ 机器学习单元测试平台，零代码、全方位、自动化 测试 方法/函数 的正确性、可用性和性能。☀️An unit testing platform powered by machine learning. Coding-free, comprehensive and automatic testing for methods/functions. | 2023-03-07 11:52:28 +0000 UTC |
-| 19 | [Go-QuickStart](https://github.com/fanchann/Go-QuickStart) | to speed up the creation of your REST API | 2023-03-07 14:35:46 +0000 UTC |
-| 19 | [gitnostr](https://github.com/spearson78/gitnostr) | Git integration for Nostr that supports creation and cloning of repositories and managing permissions of to access the repositorie | 2023-03-09 16:04:40 +0000 UTC |
-| 18 | [chatgpt-web](https://github.com/Arvintian/chatgpt-web) | ChatGPT Web App implemented in golang based on OpenAI API. | 2023-03-02 11:25:49 +0000 UTC |
-| 18 | [goopenai](https://github.com/franciscoescher/goopenai) | This is a Go client library for the OpenAI API | 2023-03-13 02:09:34 +0000 UTC |
+| 3422 | [xzbot](https://github.com/amlweems/xzbot) | notes, honeypot, and exploit demo for the xz backdoor (CVE-2024-3094) | 2024-04-01 14:28:09 +0000 UTC |
+| 2325 | [redka](https://github.com/nalgeon/redka) | Redis re-implemented with SQLite | 2024-04-06 19:10:02 +0000 UTC |
+| 1873 | [otel-profiling-agent](https://github.com/elastic/otel-profiling-agent) | The production-scale datacenter profiler (C/C++, Go, Rust, Python, Java, NodeJS, PHP, Ruby, Perl, ...) | 2024-04-15 14:22:53 +0000 UTC |
+| 1845 | [aurora](https://github.com/aurora-develop/aurora) | free | 2024-04-02 00:57:58 +0000 UTC |
+| 604 | [reverst](https://github.com/flipt-io/reverst) | Reverse Tunnels in Go over HTTP/3 and QUIC | 2024-04-03 13:32:11 +0000 UTC |
+| 444 | [zkp-hmac-communication-go](https://github.com/zk-Call/zkp-hmac-communication-go) | "Zero-Knowledge" Proof Implementation with HMAC Communication in Go | 2024-04-03 09:33:59 +0000 UTC |
+| 303 | [lc](https://github.com/wgpsec/lc) | LC（List Cloud）是一个多云攻击面资产梳理工具 | 2024-04-06 13:04:37 +0000 UTC |
+| 287 | [PasteBomb](https://github.com/marco-liberale/PasteBomb) | PasteBomb C2-less RAT | 2024-03-28 13:50:07 +0000 UTC |
+| 237 | [free-gpt3.5-2api](https://github.com/aurorax-neo/free-gpt3.5-2api) | free chat gpt api | 2024-04-03 15:36:45 +0000 UTC |
+| 225 | [Groq2API](https://github.com/Star-Studio-Develop/Groq2API) | Another Free AI By Web2API | 2024-04-09 06:27:46 +0000 UTC |
+| 173 | [sunotoapi](https://github.com/disingn/sunotoapi) | 将 sunoAi web转成 openai 格式进行调用 | 2024-03-26 08:21:08 +0000 UTC |
+| 170 | [webscraper](https://github.com/zzzgydi/webscraper) | Scrape the webpage convert it into Markdown, and enhance AI search applications. | 2024-04-11 13:14:08 +0000 UTC |
+| 155 | [radish](https://github.com/Dhravya/radish) | Super fast drop-in replacement of the in memory key-value store Redis, made in Golang | 2024-03-26 03:28:48 +0000 UTC |
+| 142 | [Catcher](https://github.com/wudijun/Catcher) | Catcher(捕手) 重点系统指纹漏洞验证工具，适用于外网打点，资产梳理漏洞检查。 | 2024-04-10 06:14:40 +0000 UTC |
+| 120 | [netscout](https://github.com/caio-ishikawa/netscout) | OSINT tool that finds domains, subdomains, directories, endpoints and files for a given seed URL. | 2024-03-28 17:50:37 +0000 UTC |
+| 99 | [AutoGeaconC2](https://github.com/TryGOTry/AutoGeaconC2) | AutoGeaconC2: 一键读取Profile自动化生成geacon实现跨平台上线CobaltStrike | 2024-04-07 03:02:28 +0000 UTC |
+| 91 | [CSPReconGO](https://github.com/jhaddix/CSPReconGO) |  | 2024-03-26 23:54:32 +0000 UTC |
+| 90 | [cockroachai-v2](https://github.com/cockroachai/cockroachai-v2) | 一个简单的小程序,用于账号共享,免费开源 | 2024-04-05 16:11:50 +0000 UTC |
+| 80 | [CVENotifier](https://github.com/dark-warlord14/CVENotifier) | Customized CVE FEED Notifier | 2024-04-15 13:27:29 +0000 UTC |
+| 77 | [charcoal](https://github.com/sugawarayuuta/charcoal) | Faster utf8.Valid using multi-byte processing without SIMD. | 2024-03-26 04:52:13 +0000 UTC |
+| 68 | [OneLong](https://github.com/M0nster3/OneLong) | 简化前期信息收集的繁重任务，协助红队人员快速的信息收集，达到一条龙的效果 | 2024-04-02 15:09:07 +0000 UTC |
+| 64 | [wings](https://github.com/pelican-dev/wings) |  | 2024-03-29 01:46:09 +0000 UTC |
+| 59 | [json-repair](https://github.com/RealAlexandreAI/json-repair) | 🔧 Repair JSON！Solution for JSON Anomalies from LLMs. | 2024-04-18 15:27:39 +0000 UTC |
+| 57 | [gosb](https://github.com/miniLCT/gosb) | go silver bullet | 2024-03-29 09:59:54 +0000 UTC |
+| 57 | [library-admin-system](https://github.com/WwwwwyDev/library-admin-system) | 基于go-zero+vue2的图书馆后台管理系统(可供学习和参考)   A Library Backend Management System Based on go-zero+Vue2 (for Learning and Reference) | 2024-04-03 08:02:50 +0000 UTC |
+| 57 | [alarm](https://github.com/pldubouilh/alarm) | Fire alarm beep detection | 2024-04-07 11:36:07 +0000 UTC |
+| 56 | [mata](https://github.com/csznet/mata) | 监控服务器自动切换解析工具 | 2024-03-26 13:48:08 +0000 UTC |
+| 55 | [webhook](https://github.com/soulteary/webhook) | Stable and reliable WebHook, quickly connect to various systems. / 稳定靠谱的网络钩子，快速连接各种系统。 | 2024-04-04 12:41:01 +0000 UTC |
+| 52 | [poutine](https://github.com/boostsecurityio/poutine) | boostsecurityio/poutine | 2024-04-09 17:59:41 +0000 UTC |
+| 51 | [cohere2openai](https://github.com/missuo/cohere2openai) | Convert the Cohere API to OpenAI compatible API. | 2024-04-17 02:57:42 +0000 UTC |
+| 51 | [makefile-graph](https://github.com/dnaeon/makefile-graph) | Turn your Makefile into a graph | 2024-04-21 08:11:25 +0000 UTC |
+| 45 | [distributedfilesystemgo](https://github.com/anthdm/distributedfilesystemgo) | distributedfilesystemgo | 2024-04-13 17:43:55 +0000 UTC |
+| 40 | [find_info](https://github.com/hackerxj007/find_info) | 基于命令行&&读取文件敏感信息搜索&敏感文件搜索 | 2024-04-14 13:14:35 +0000 UTC |
+| 40 | [free-gpt3.5-2api](https://github.com/aurora-develop/free-gpt3.5-2api) |  | 2024-04-04 12:43:45 +0000 UTC |
+| 39 | [fastschema](https://github.com/fastschema/fastschema) | A simple and schema-based headless CMS | 2024-04-02 04:58:55 +0000 UTC |
+| 35 | [unch](https://github.com/dwisiswant0/unch) | Hides message with invisible Unicode characters | 2024-03-30 21:19:13 +0000 UTC |
+| 33 | [confiq](https://github.com/greencoda/confiq) | Structured data format to config struct decoder library for Go | 2024-04-10 18:33:18 +0000 UTC |
+| 33 | [sturdyc](https://github.com/creativecreature/sturdyc) | A highly concurrent cache packed with functionality for building sturdy systems. | 2024-04-06 17:00:40 +0000 UTC |
+| 32 | [game-of-life-vwm](https://github.com/ThePrimeagen/game-of-life-vwm) |  | 2024-04-10 00:42:11 +0000 UTC |
+| 31 | [hot](https://github.com/samber/hot) | 🌶️ In-memory caching library for Go | 2024-04-02 08:07:07 +0000 UTC |
+| 31 | [MuffinDB](https://github.com/sahildotexe/MuffinDB) |  | 2024-03-26 10:56:59 +0000 UTC |
+| 30 | [ollama-operator](https://github.com/nekomeowww/ollama-operator) | Yet another operator for running large language models on Kubernetes with ease. Powered by Ollama! 🐫 | 2024-04-10 11:34:16 +0000 UTC |
+| 30 | [yal](https://github.com/timo-reymann/yal) | A simple link hub, to display and search links. Allows easy branding, runs with the least privileges and is simple to use. | 2024-03-28 10:24:25 +0000 UTC |
+| 30 | [darkPulse](https://github.com/fdx-xdf/darkPulse) | darkPulse是一个用go编写的shellcode Packer，用于生成各种各样的shellcode loader。 | 2024-03-29 06:05:35 +0000 UTC |
+| 29 | [Predator](https://github.com/H3rmesk1t/Predator) | 内网综合扫描工具 | 2024-04-16 12:17:08 +0000 UTC |
+| 29 | [fyne-mines](https://github.com/mevdschee/fyne-mines) | Minesweeper game in Go (cross-platform, built with fyne)  | 2024-03-29 16:30:00 +0000 UTC |
+| 29 | [prs](https://github.com/dhth/prs) | Stay updated on PRs without leaving the terminal | 2024-03-29 15:26:19 +0000 UTC |
+| 29 | [terraform-provider-pinecone](https://github.com/pinecone-io/terraform-provider-pinecone) | Official Terraform provider for Pinecone  | 2024-03-28 13:29:21 +0000 UTC |
+| 29 | [test-these-besties](https://github.com/ThePrimeagen/test-these-besties) |  | 2024-04-16 20:59:47 +0000 UTC |
+| 29 | [microq](https://github.com/c16a/microq) | A tiny event broker | 2024-04-06 03:44:58 +0000 UTC |
+| 28 | [LagrangeGo](https://github.com/LagrangeDev/LagrangeGo) |  | 2024-04-07 05:55:21 +0000 UTC |
+| 27 | [cfiptest](https://github.com/jackrun123/cfiptest) | Cloudflare IP 测速器 | 2024-04-02 04:26:07 +0000 UTC |
+| 26 | [gobuilder](https://github.com/gvcgo/gobuilder) | An enhancement for official go build. | 2024-04-11 11:46:55 +0000 UTC |
+| 24 | [loop](https://github.com/dreamsofcode-io/loop) | Loop is a utility package for function iterators in Go using the new rangefunc experiment | 2024-04-03 23:35:56 +0000 UTC |
+| 24 | [kind-with-gpus-examples](https://github.com/klueska/kind-with-gpus-examples) |  | 2024-03-26 20:52:32 +0000 UTC |
+| 22 | [DceRPC-OS-Info](https://github.com/W01fh4cker/DceRPC-OS-Info) | golang实现通过dcerpc和ntlmssp获取Windows远程主机信息 | 2024-04-16 12:02:42 +0000 UTC |
+| 22 | [sing-srs-converter](https://github.com/PuerNya/sing-srs-converter) | A Go based tool to convert clash rule providet to sing-box rule-set | 2024-03-30 19:37:48 +0000 UTC |
+| 22 | [AssetViz](https://github.com/mrrootsec/AssetViz) |  AssetViz simplifies the visualization of subdomains from input files, presenting them as a coherent mind map. Ideal for penetration testers and bug bounty hunters conducting reconnaissance, AssetViz provides intuitive insights into domain structures for informed decision-making.  | 2024-04-01 02:03:06 +0000 UTC |
+| 21 | [burp2caido](https://github.com/projectmonke/burp2caido) | A tool to migrate Burpsuite HTTP history to Caido. | 2024-04-03 16:23:14 +0000 UTC |
+| 21 | [event-driven-golang](https://github.com/NiltonMorais/event-driven-golang) | Event Driven Architecture example in golang | 2024-04-04 17:59:32 +0000 UTC |
+| 20 | [forklift](https://github.com/paritytech/forklift) | Forklift helps Cargo with caching | 2024-04-04 15:59:27 +0000 UTC |
+| 20 | [discord-image](https://github.com/missuo/discord-image) | Powerful Discord image hosting, file sharing | 2024-04-09 07:30:10 +0000 UTC |
+| 20 | [beanbox-vm](https://github.com/ErikKaum/beanbox-vm) | A microVM for LLMs and humans | 2024-03-26 17:58:12 +0000 UTC |
+| 20 | [nisaba](https://github.com/sourcebunny/nisaba) | Create an IRC chat bot powered by AI, using llamafile, in minutes. | 2024-04-04 07:53:56 +0000 UTC |
+| 20 | [durl](https://github.com/j3ssie/durl) | Remove duplicate URLs by retaining only the unique combinations of hostname, path, and parameter names | 2024-04-04 11:39:24 +0000 UTC |
+| 20 | [osv-scalibr](https://github.com/google/osv-scalibr) |  | 2024-04-10 09:09:11 +0000 UTC |
+| 19 | [ddddhmlist](https://github.com/Tontonnow/ddddhmlist) |  | 2024-04-06 14:13:42 +0000 UTC |
+| 19 | [goredisclone](https://github.com/anthdm/goredisclone) |  | 2024-04-15 16:26:55 +0000 UTC |
+| 19 | [dauthi](https://github.com/emptynebuli/dauthi) |  | 2024-04-23 12:42:25 +0000 UTC |
+| 19 | [httpfs](https://github.com/progrium/httpfs) | Create filesystems using your favorite HTTP framework. | 2024-04-18 00:29:33 +0000 UTC |
+| 18 | [gorvus](https://github.com/FelipeMCassiano/gorvus) |  | 2024-04-01 00:28:57 +0000 UTC |
+| 17 | [image-pull-secrets-provisioner](https://github.com/pfnet/image-pull-secrets-provisioner) |  | 2024-04-05 01:39:40 +0000 UTC |
+| 16 | [terraform-registry-mirror](https://github.com/jonasasx/terraform-registry-mirror) |  | 2024-04-08 05:00:59 +0000 UTC |
+| 16 | [dantotsu-updater](https://github.com/kaorlol/dantotsu-updater) | This is only for the pretest (alpha) apk.  | 2024-03-28 20:43:02 +0000 UTC |
+| 16 | [ube](https://github.com/ramirezfernando/ube) | A command line tool used to count lines of code (CLOC) | 2024-03-27 16:52:17 +0000 UTC |
+| 16 | [showta](https://github.com/bosnzt/showta) | 个人网盘、企业网盘、网盘系统、私有云盘、支持在线预览、下载, 支持不同存储挂载，支持WebDAV协议，开箱即用。 | 2024-04-07 04:14:30 +0000 UTC |
+| 16 | [RVC-Models-Downloader](https://github.com/RVC-Project/RVC-Models-Downloader) | Easy tool to download a batch of files listed in yaml (ex. RVC models in Hugging Face 🤗). | 2024-04-17 06:50:40 +0000 UTC |
+| 16 | [jpegli](https://github.com/gen2brain/jpegli) | Go encoder/decoder for JPEG based on jpegli | 2024-04-01 08:17:19 +0000 UTC |
+| 16 | [Minimalist-Web-Notepad-Go](https://github.com/114514-24/Minimalist-Web-Notepad-Go) |  Minimalist Web Notepad Golang重置版  | 2024-04-10 10:41:44 +0000 UTC |
+| 16 | [majorana](https://github.com/teivah/majorana) | A RISC-V virtual processor, written in Go. | 2024-03-26 19:49:30 +0000 UTC |
+| 15 | [cell-script](https://github.com/cell-labs/cell-script) | Cell Script is a new designed language for smart-contract programming on UTXO chain, currently supports CKB. | 2024-03-27 18:18:40 +0000 UTC |
+| 15 | [enver](https://github.com/msrexe/enver) | Environment management package for Go ⚙️ | 2024-04-13 12:46:27 +0000 UTC |
+| 14 | [postgres-fair-queue](https://github.com/abelanger5/postgres-fair-queue) |  | 2024-04-13 02:14:12 +0000 UTC |
+| 14 | [untree](https://github.com/sentriz/untree) | like gron, but generalised on indentation | 2024-03-27 23:44:40 +0000 UTC |
+| 14 | [curlrevshell](https://github.com/magisterquis/curlrevshell) | Kooky cURL-powered replacement for reverse shell via /dev/tcp | 2024-03-27 23:48:09 +0000 UTC |
+| 14 | [terraform-provider-lua](https://github.com/opentofu/terraform-provider-lua) |  | 2024-04-17 17:04:59 +0000 UTC |
+| 13 | [dare-db](https://github.com/dmarro89/dare-db) | Dare-DB is a lightweight in-memory database written in Go, featuring Redis-inspired hashtables and HTTP endpoints for seamless data storage and retrieval, with Docker support for easy deployment | 2024-04-20 14:07:31 +0000 UTC |
+| 13 | [hyprnotify](https://github.com/codelif/hyprnotify) | DBus Implementation of Freedesktop Notification spec for 'hyprctl notify' | 2024-03-29 19:21:02 +0000 UTC |
+| 13 | [scheduler-plugins](https://github.com/pfnet/scheduler-plugins) |  | 2024-04-09 07:04:07 +0000 UTC |
+| 13 | [testcontainers](https://github.com/dreamsofcode-io/testcontainers) |  | 2024-04-16 23:15:38 +0000 UTC |
+| 13 | [assessment-tax](https://github.com/KKGo-Software-engineering/assessment-tax) |  | 2024-04-02 15:22:31 +0000 UTC |
+| 13 | [lessapi-duckduckgo](https://github.com/lessapi-dev/lessapi-duckduckgo) | LessAPI-DuckDuckGo is an API service for a search engine. Simple, lightweight, reliable, Docker deployable, easy to maintain. 一个基于DuckDuckGo的搜索引擎API服务。简单、轻量、可靠、Docker部署、易于维护。 | 2024-04-09 14:49:54 +0000 UTC |
+| 13 | [labeler](https://github.com/clubanderson/labeler) | label ALL kubectl, kustomize, and helm objects, inline, without extra steps.(including namespaces and CRDs) | 2024-03-26 17:07:43 +0000 UTC |
+| 12 | [cvwt](https://github.com/frankiejun/cvwt) |  | 2024-04-08 09:22:11 +0000 UTC |
+| 12 | [goLAPS](https://github.com/p0dalirius/goLAPS) | Go setter/getter for property ms-Mcs-AdmPwd used by LAPS.  | 2024-03-30 19:26:27 +0000 UTC |
+| 12 | [Code-Spider](https://github.com/darkarmorlab/Code-Spider) | 一款打供应商必备的代码获取工具 | 2024-03-26 07:57:25 +0000 UTC |
+| 12 | [sackmesser](https://github.com/can3p/sackmesser) |  | 2024-04-05 11:57:20 +0000 UTC |
+| 12 | [log-slapper](https://github.com/oz9un/log-slapper) | log-slapper is an open-source offensive security tool designed for red-team operations as the post-exploit module and assessing your Splunk's security. | 2024-04-03 22:12:39 +0000 UTC |
+| 12 | [GhostBin](https://github.com/0x30c4/GhostBin) | GhostBin is a lightweight, high-performance pastebin built with Go and Redis. Designed with simplicity and speed in mind, GhostBin offers a fast and efficient platform for sharing text snippets effortlessly. | 2024-03-26 09:54:40 +0000 UTC |
+| 11 | [OrnnCache](https://github.com/bearslyricattack/OrnnCache) | 自由插装，动态拓展，快速构建的分布式内存数据库. | 2024-03-26 04:10:55 +0000 UTC |
 

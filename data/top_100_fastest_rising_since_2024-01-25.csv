@@ -1,0 +1,100 @@
+5351, daytona, https://github.com/daytonaio/daytona, "The Open Source Dev Environment Manager.", "dev-env,dev-environment-setup,developer-tools,development-environment,development-environment-manager", 2024-02-06 08:21:20 +0000 UTC
+3422, xzbot, https://github.com/amlweems/xzbot, "notes, honeypot, and exploit demo for the xz backdoor (CVE-2024-3094)", "", 2024-04-01 14:28:09 +0000 UTC
+2643, coze-discord-proxy, https://github.com/deanxv/coze-discord-proxy, "代理Discord对话Coze-Bot，实现以API形式请求GPT4模型，提供对话、文生图、图生文、知识库检索等功能。", "", 2024-01-26 07:32:25 +0000 UTC
+2469, gptscript, https://github.com/gptscript-ai/gptscript, "Natural Language Programming", "", 2024-01-29 23:21:29 +0000 UTC
+2325, redka, https://github.com/nalgeon/redka, "Redis re-implemented with SQLite", "database,key-value,redis,sqlite", 2024-04-06 19:10:02 +0000 UTC
+1873, otel-profiling-agent, https://github.com/elastic/otel-profiling-agent, "The production-scale datacenter profiler (C/C++, Go, Rust, Python, Java, NodeJS, PHP, Ruby, Perl, ...)", "ebpf,profiler", 2024-04-15 14:22:53 +0000 UTC
+1845, aurora, https://github.com/aurora-develop/aurora, "free", "chatgpt,free,gpt", 2024-04-02 00:57:58 +0000 UTC
+1023, tlm, https://github.com/yusufcanb/tlm, "Local CLI Copilot, powered by CodeLLaMa. 💻🦙", "bash,codellama,llama2,llm,powershell,starcoder2", 2024-02-14 12:00:13 +0000 UTC
+966, bitalostored, https://github.com/zuoyebang/bitalostored, "Bitalostored is a high-performance distributed storage system, core engine based on bitalosdb(self-developed), compatible with Redis protocol.", "bitalosdb,database,distributed-storage,high-performance,kvstore,nosql,redis,storage-engine", 2024-02-26 09:24:45 +0000 UTC
+817, workout-tracker, https://github.com/jovandeginste/workout-tracker, "A workout tracking web application for personal use (or family, friends), geared towards running and other GPX-based activities", "chartjs,docker,fitness-tracker,go,gpx,leaflet,self-hosted,tailwindcss,workout-tracker,workouts", 2024-02-16 20:19:59 +0000 UTC
+767, XiebroC2, https://github.com/INotGreen/XiebroC2, "一款支持多人协作的渗透测试图形化框架、支持lua插件扩展、域前置/CDN上线、自定义多个模块、自定义shellcode、文件管理、进程管理、内存加载、反向代理等功能", "c2,pentest-tool", 2024-02-15 15:46:07 +0000 UTC
+689, alloy, https://github.com/grafana/alloy, "OpenTelemetry Collector distribution with programmable pipelines", "collector,grafana,loki,monitoring,observability,opentelemetry,opentelemetry-collector,prometheus", 2024-02-28 14:00:15 +0000 UTC
+637, aiwechat-vercel, https://github.com/pwh-pwh/aiwechat-vercel, "使用vercel的functions，将ai功能加入微信公众号", "ai,bot,gpt,vercel-serverless,wechat", 2024-02-27 15:33:15 +0000 UTC
+614, pql, https://github.com/runreveal/pql, "Pipelined Query Language", "clickhouse,detection-engineering,go,golang,query-language,siem,sql", 2024-01-26 23:15:38 +0000 UTC
+604, reverst, https://github.com/flipt-io/reverst, "Reverse Tunnels in Go over HTTP/3 and QUIC", "", 2024-04-03 13:32:11 +0000 UTC
+493, rHttp, https://github.com/1buran/rHttp, "REPL for HTTP", "http-cli,repl,tui", 2024-03-08 18:26:32 +0000 UTC
+444, zkp-hmac-communication-go, https://github.com/zk-Call/zkp-hmac-communication-go, "\"Zero-Knowledge\" Proof Implementation with HMAC Communication in Go", "go,hmac,zero-knowledge,zk-call,zkproof", 2024-04-03 09:33:59 +0000 UTC
+434, nuke, https://github.com/ortuman/nuke, "⚡ A memory arena implementation for Go.", "arena-allocator,garbage-collection,go,low-latency,memory-management,performance", 2024-02-23 14:02:28 +0000 UTC
+328, superfile, https://github.com/MHNightCat/superfile, "Pretty fancy and modern terminal file manager", "bubbletea,cli,file-manager,filemanager,filesystem,golang,linux-app,terminal-app,terminal-based,terminal-file-manager,tui", 2024-03-19 15:49:52 +0000 UTC
+327, omni, https://github.com/siderolabs/omni, "SaaS-simple deployment of Kubernetes - on your own hardware.", "", 2024-02-29 13:12:09 +0000 UTC
+309, diagram-as-code, https://github.com/awslabs/diagram-as-code, "Diagram-as-code for AWS architecture.", "aws,diagram-as-code", 2024-02-21 00:57:40 +0000 UTC
+303, lc, https://github.com/wgpsec/lc, "LC（List Cloud）是一个多云攻击面资产梳理工具", "cloud,cloudsecurity,cybersecurity", 2024-04-06 13:04:37 +0000 UTC
+300, amprobe, https://github.com/amuluze/amprobe, "轻量级主机及容器监控服务", "", 2024-03-14 09:20:19 +0000 UTC
+293, version-manager, https://github.com/gvcgo/version-manager, "🔥🔥🔥 A general version manager for multiple sdks, such as Java, Go, Node.js, Deno, Bun, .Net, Python, PyPy, PHP, Rust, Kotlin, Scala, Groovy, Flutter, Julia, Zig, V, Odin, Typst, Android SDKs. A much better choice than vfox, fnm, gvm, etc.", "cross-platform,go,golang,languages,linux,macos,programming,sdk,version-management,version-manager,versions,vm,vmr,windows", 2024-02-29 10:49:37 +0000 UTC
+287, PasteBomb, https://github.com/marco-liberale/PasteBomb, "PasteBomb C2-less RAT", "", 2024-03-28 13:50:07 +0000 UTC
+277, shipthing, https://github.com/NicolasLopes7/shipthing, "rebuilding vercel", "", 2024-02-29 14:52:16 +0000 UTC
+237, free-gpt3.5-2api, https://github.com/aurorax-neo/free-gpt3.5-2api, "free chat gpt api", "api,free,gpt", 2024-04-03 15:36:45 +0000 UTC
+236, swiss, https://github.com/cockroachdb/swiss, "Go port of Google's Swiss Table hash table", "", 2024-02-08 16:57:48 +0000 UTC
+229, oneterm, https://github.com/veops/oneterm, "Provide secure access and control over all infrastructure", "bastion,golang,oneterm,rdp,ssh,terminal,vnc,vue", 2024-01-30 01:58:43 +0000 UTC
+225, Groq2API, https://github.com/Star-Studio-Develop/Groq2API, "Another Free AI By Web2API", "ai,chatgpt,chatgpt-api,free,gpt", 2024-04-09 06:27:46 +0000 UTC
+224, GOTTH, https://github.com/TomDoesTech/GOTTH, "", "go,golang,htmx,tailwindcss", 2024-01-31 03:55:49 +0000 UTC
+222, gocheck, https://github.com/gatariee/gocheck, "DefenderCheck but blazingly fast™", "", 2024-01-29 10:57:34 +0000 UTC
+219, Scan-Spring-GO, https://github.com/sspsec/Scan-Spring-GO, "针对SpringBoot的渗透工具，Spring漏洞利用工具", "", 2024-03-07 16:52:02 +0000 UTC
+215, toru, https://github.com/sweetbbak/toru, "Bittorrent streaming CLI tool. Stream anime torrents, real-time with no waiting for downloads. ", "anime,bittorrent,cli,torrent,webrtc", 2024-02-07 04:00:40 +0000 UTC
+215, apple-music-alac-downloader, https://github.com/alacleaker/apple-music-alac-downloader, "Apple Music ALAC Downloader", "", 2024-03-04 21:54:07 +0000 UTC
+210, smugglefuzz, https://github.com/Moopinger/smugglefuzz, "A rapid HTTP downgrade smuggling scanner written in Go.", "bounty-hunting-tools,go,golang,http-2,http2,infosec,pentest-tool,pentesting,request-smuggling,vulnerability-scanners", 2024-01-30 09:14:14 +0000 UTC
+207, goenums, https://github.com/zarldev/goenums, "Type Safe Enum generator for Go", "", 2024-02-22 00:28:52 +0000 UTC
+201, lexido, https://github.com/micr0-dev/lexido, "A terminal assistant, powered by Generative AI", "", 2024-02-24 17:35:18 +0000 UTC
+199, grapi, https://github.com/atpuxiner/grapi, "This is a gin restful api.", "gin,gin-restful-api,golang,grapi,gtcli", 2024-02-29 14:09:11 +0000 UTC
+189, purl, https://github.com/catatsuy/purl, "Streamlining Text Processing", "grep-like,regexp,sed,text-processing", 2024-03-17 08:24:18 +0000 UTC
+173, sunotoapi, https://github.com/disingn/sunotoapi, "将 sunoAi web转成 openai 格式进行调用", "", 2024-03-26 08:21:08 +0000 UTC
+170, webscraper, https://github.com/zzzgydi/webscraper, "Scrape the webpage convert it into Markdown, and enhance AI search applications.", "", 2024-04-11 13:14:08 +0000 UTC
+162, LLM-And-More, https://github.com/IceBearAI/LLM-And-More, "LLM-And-More is a professional, plug-and-play, llm trainer and application builder that guides you through the complete LLM workflow from data to evaluation, from training to deployment, from idea to sevice. / LLM-And-More 是一个专业、开箱即用的大模型训练及应用构建一站式解决方案，包含从数据到评估、从训练到部署、从想法到服务的全流程最佳实践。", "", 2024-02-08 15:16:56 +0000 UTC
+158, flyflow, https://github.com/flyflow-devs/flyflow, "Flyflow is the ultimate API for LLMs", "", 2024-02-25 22:52:53 +0000 UTC
+156, mechanoid, https://github.com/hybridgroup/mechanoid, "Mechanoid is a framework for WebAssembly applications on embedded systems and IoT devices.", "embedded,golang,iot,microcontroller,tinygo,wasm,webassembly", 2024-02-17 11:52:02 +0000 UTC
+155, radish, https://github.com/Dhravya/radish, "Super fast drop-in replacement of the in memory key-value store Redis, made in Golang", "golang,redis,redis-server", 2024-03-26 03:28:48 +0000 UTC
+152, bitalosdb, https://github.com/zuoyebang/bitalosdb, "Bitalosdb is a high-performance KV storage engine.", "database,distributed-storage,high-performance,io-architecture,kvstore,nosql,storage-engine", 2024-02-26 09:34:34 +0000 UTC
+142, Catcher, https://github.com/wudijun/Catcher, "Catcher(捕手) 重点系统指纹漏洞验证工具，适用于外网打点，资产梳理漏洞检查。", "", 2024-04-10 06:14:40 +0000 UTC
+135, hugot, https://github.com/knights-analytics/hugot, "Huggingface transformer pipelines in Golang", "", 2024-01-31 15:09:13 +0000 UTC
+132, lacerate, https://github.com/Foleyzhao/lacerate, "简单的静态博客生成器", "", 2024-03-12 11:45:11 +0000 UTC
+126, kondense, https://github.com/unagex/kondense, "Automated resources sizing tool for containers in kubernetes", "kubernetes,memory,memory-management", 2024-02-20 09:08:15 +0000 UTC
+125, kitops, https://github.com/jozu-ai/kitops, "Tools for easing the handoff between AI/ML and App/SRE teams.", "ai,code,datasets,devops,devops-tools,ml,mlops,mlops-tools,models", 2024-02-02 18:53:31 +0000 UTC
+123, gourlex, https://github.com/trap-bytes/gourlex, "Gourlex is a simple tool that can be used to extract URLs and paths from web pages.", "", 2024-03-16 12:01:46 +0000 UTC
+123, goralim, https://github.com/0verread/goralim, "A rate limiting package for Go to handle distributed workloads", "distributed-systems,golang,rate-limiter,rate-limiting,redis", 2024-03-13 00:41:52 +0000 UTC
+122, xgo, https://github.com/xhd2015/xgo, "Enable function trap in go, provide trace and mock to help write and debug unit test faster", "go,go-test,go-testing,golang,gomonkey,instrumentation,mock,monkey-patching,testing,testing-library,tracing,unit-test,unit-testing", 2024-03-13 14:51:09 +0000 UTC
+120, routegroup, https://github.com/go-pkgz/routegroup, "Lightweight library for route grouping and middleware integration with the standard http.ServeMux", "http,library,routing", 2024-02-22 07:45:34 +0000 UTC
+120, netscout, https://github.com/caio-ishikawa/netscout, "OSINT tool that finds domains, subdomains, directories, endpoints and files for a given seed URL.", "cli,golang,osint,osint-tool", 2024-03-28 17:50:37 +0000 UTC
+116, bitalostable, https://github.com/zuoyebang/bitalostable, "Bitalostable is a KV storage engine. It is used to store bitalostored cold data.", "database,kvstore,nosql,storage-engine", 2024-02-26 09:50:57 +0000 UTC
+114, serpent, https://github.com/deggja/serpent, "snek in k8s create chaos", "", 2024-02-10 16:51:26 +0000 UTC
+110, hauditor, https://github.com/trap-bytes/hauditor, "hauditor is a tool designed to analyze the security headers returned by a web page.", "", 2024-03-12 20:42:49 +0000 UTC
+107, go-pktgen, https://github.com/atoonk/go-pktgen, "", "", 2024-02-24 17:30:26 +0000 UTC
+104, spin-operator, https://github.com/spinkube/spin-operator, "Spin Operator is a Kubernetes operator that empowers platform engineers to deploy Spin applications as custom resources to their Kubernetes clusters", "kubernetes,spin,webassembly", 2024-02-01 16:02:25 +0000 UTC
+104, godump, https://github.com/yassinebenaid/godump, "Go library to dump variables and data structures.", "debug,dump,go", 2024-02-18 17:12:05 +0000 UTC
+104, gochat, https://github.com/olzhasar/gochat, "Web messenger built with Go & Vue.js", "", 2024-02-21 19:57:42 +0000 UTC
+104, walker, https://github.com/abenz1267/walker, "wayland-native application runner", "golang,gtk4,runner,wayland", 2024-03-07 03:11:41 +0000 UTC
+102, clipse, https://github.com/savedra1/clipse, "Configurable TUI clipboard manager for Unix", "", 2024-02-08 20:24:29 +0000 UTC
+102, educationalsp, https://github.com/tjdevries/educationalsp, "", "", 2024-03-04 19:57:09 +0000 UTC
+99, labctl, https://github.com/iximiuz/labctl, "iximiuz Labs control - start remote microVM playgrounds from the command line.", "devops,docker,kubernetes,linux,networking,playgrounds", 2024-02-29 19:55:08 +0000 UTC
+99, AutoGeaconC2, https://github.com/TryGOTry/AutoGeaconC2, "AutoGeaconC2: 一键读取Profile自动化生成geacon实现跨平台上线CobaltStrike", "cobaltstrike,geacon", 2024-04-07 03:02:28 +0000 UTC
+99, go-ratelimit-manager, https://github.com/ajwlforever/go-ratelimit-manager, "使用go实现单机式/分布式限流方案", "", 2024-03-14 11:47:29 +0000 UTC
+98, VscanPlus, https://github.com/youki992/VscanPlus, "[VscanPlus内外网漏洞扫描工具]An open-source,  cross-platform website vulnerability scanning tool that helps you quickly detect website security vulnerabilities. 基于veo师傅的漏扫工具vscan二次开发的版本，开源、轻量、快速、跨平台 的网站漏洞扫描工具，帮助您快速检测网站安全隐患。", "", 2024-02-27 07:16:57 +0000 UTC
+97, cloudzip, https://github.com/ozkatz/cloudzip, "list and get specific files from remote zip archives without downloading the whole thing", "", 2024-03-21 10:35:04 +0000 UTC
+96, KscanPro, https://github.com/qi4L/KscanPro, "轻量化全方位扫描器", "", 2024-03-21 09:43:28 +0000 UTC
+95, rebootx-on-prem, https://github.com/c100k/rebootx-on-prem, "RebootX On-Prem is an open source specification for defining a custom server in order to manage on-premise runnables and dashboards in the RebootX app.", "cloud,dashboard,infrastructure,on-prem,server", 2024-03-19 15:56:55 +0000 UTC
+94, leaky-vessels-static-detector, https://github.com/snyk/leaky-vessels-static-detector, "Static detection tool for runc and Docker \"Leaky Vessels\" vulnerabilities", "", 2024-01-31 12:24:02 +0000 UTC
+92, czip, https://github.com/0xsequence/czip, "EVM Calldata Zip, aka czip", "", 2024-02-10 00:34:04 +0000 UTC
+91, CSPReconGO, https://github.com/jhaddix/CSPReconGO, "", "", 2024-03-26 23:54:32 +0000 UTC
+90, iec104, https://github.com/wendy512/iec104, "GoLang IEC104 library", "", 2024-02-22 12:16:14 +0000 UTC
+90, cockroachai-v2, https://github.com/cockroachai/cockroachai-v2, "一个简单的小程序,用于账号共享,免费开源", "", 2024-04-05 16:11:50 +0000 UTC
+88, N36v, https://github.com/Alice-Lambert/N36v, "", "antivirus-evasion,antivirus-software,nord,nord-vpn,nord-vpn-free,nordvpn,nordvpn-download-free,nordvpn-free,nordvpn-free-download,nordvpn-full", 2024-03-06 16:38:16 +0000 UTC
+88, go-boilerplate, https://github.com/codoworks/go-boilerplate, "Production-ready Go RESTful API boilerplate with Echo", "boilerplate,echo,go,go-api-example,go-boilerplate,go-crud,go-framework,go-rest-api,golang-boilerplate,https,labstack-echo,microservice,ory,ory-keto,ory-kratos", 2024-03-17 03:48:23 +0000 UTC
+87, go-web-wire-starter, https://github.com/1321928757/go-web-wire-starter, "基于go-wire进行依赖注入重构的Golang Web骨架，方便进行web应用快速开发", "", 2024-03-10 12:57:23 +0000 UTC
+87, kubectl-pods_on, https://github.com/ahmetb/kubectl-pods_on, "kubectl plugin to query Pods by Node names or selectors", "kubectl,kubectl-plugin,kubectl-plugins", 2024-02-04 00:01:22 +0000 UTC
+87, toxicache, https://github.com/xhzeem/toxicache, " Go scanner to find web cache poisoning vulnerabilities in a list of URLs", "", 2024-02-20 12:09:48 +0000 UTC
+87, descopecli, https://github.com/descope/descopecli, "A command line utility for performing common tasks on Descope projects", "authentication,authorization,cli,descope", 2024-02-23 17:05:03 +0000 UTC
+86, goki, https://github.com/abeleinin/goki, "An intelligent flashcard management tool for the terminal!", "bubbletea,charmbracelet,cli,flashcards,golang,productivity,studying,tui", 2024-03-01 02:07:13 +0000 UTC
+86, Jgd5j, https://github.com/Kristen-Wilkerson/Jgd5j, "", "3d-max,3d-modeling-software,3ds-max,3ds-max-download,3ds-max-free,3ds-max-free-download,3ds-max-full,3dsmax,autodesk,autodesk-3ds-max,autodesk-3ds-max-download,autodesk-3ds-max-free,autodesk-3ds-max-free-download,autodesk-3ds-max-full,download-free-3ds-max,download-free-autodesk-3ds-max,modeling-software,professional-3d-modeling,rendering-software", 2024-03-12 14:01:45 +0000 UTC
+84, go-proxy, https://github.com/yusing/go-proxy, "Easy to use reverse proxy with docker integration", "docker,go,golang,letsencrypt,microservice,reverse-proxy", 2024-02-29 03:52:35 +0000 UTC
+83, MultCheck, https://github.com/MultSec/MultCheck, "Identifies bad bytes from static analysis with any Anti-Virus scanner.", "", 2024-02-14 12:13:03 +0000 UTC
+83, pphack, https://github.com/edoardottt/pphack, "The Most Advanced Client-Side Prototype Pollution Scanner", "frontend-security,hacking,javascript-security,offensive-security,offensivesecurity,prototype-pollution,red-team,redteam-tools,redteaming,scanner-web,security,security-tools,web-scanner,web-sec-scanner,web-security,web-security-audit,web-security-research", 2024-01-30 10:05:05 +0000 UTC
+80, CVENotifier, https://github.com/dark-warlord14/CVENotifier, "Customized CVE FEED Notifier", "", 2024-04-15 13:27:29 +0000 UTC
+78, gungnir, https://github.com/g0ldencybersec/gungnir, "CT Log Scanner", "", 2024-03-15 01:23:47 +0000 UTC
+78, aligned_layer_testnet, https://github.com/yetanotherco/aligned_layer_testnet, "Aligned Layer is a verification layer for zero-knowledge proofs using Eigen Layer. Our mission is to extend Ethereum's zk capabilities.", "", 2024-02-02 21:47:48 +0000 UTC
+78, jsonfile, https://github.com/crawshaw/jsonfile, "Persist a Go object to a JSON file", "", 2024-02-05 23:17:26 +0000 UTC
+77, charcoal, https://github.com/sugawarayuuta/charcoal, "Faster utf8.Valid using multi-byte processing without SIMD.", "golang,performance,utf-8,validator", 2024-03-26 04:52:13 +0000 UTC
+75, dionysia, https://github.com/dionysia-dev/dionysia, "A streaming platform based on open source software", "golang,gpac,live-streaming,video", 2024-02-16 21:55:50 +0000 UTC
+75, blast, https://github.com/blast-io/blast, "", "", 2024-01-30 10:25:50 +0000 UTC
+73, U3fw4j, https://github.com/Wanda-Jones/U3fw4j, "", "download-free-driver-easy,download-free-driver-easy-pro,driver-easy,driver-easy-download,driver-easy-free,driver-easy-free-download,driver-easy-full,driver-easy-pro,driver-easy-pro-download,driver-easy-pro-free,driver-easy-pro-free-download,driver-easy-pro-full,driver-programming,how-to-update-drivers,update-drivers,update-drivers-software", 2024-03-12 15:37:50 +0000 UTC
+71, Lwsd4, https://github.com/Margaret-Smith/Lwsd4, "", "instagram-account-creator,instagram-adder,instagram-bot,instagram-follower,instagram-follower-bot,instagram-followers,instagram-followers-bot,instagram-followers-generator,instagram-followers-software,instagram-like-app,instagram-liker,instagram-subscribers,instagram-tool,instagram-tool-for-report,instagram-toolkit,instagram-tools,instagram-view-bot,instagram-viewerbot,instagram-views", 2024-03-12 12:51:45 +0000 UTC
+71, coze-chat-proxy, https://github.com/aurorax-neo/coze-chat-proxy, "a coze chat proxy", "api,chat,coze", 2024-01-26 06:37:31 +0000 UTC
